@@ -76,3 +76,4 @@ export function Column({
       <AddTaskForm status={status} onAdd={(input) => onAdd(status, input)} />
     </div>
   );
+}
